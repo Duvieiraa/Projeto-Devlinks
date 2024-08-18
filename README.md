@@ -2,7 +2,7 @@
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
+<a href="https://www.rocketseat.com.br/discover?utm_source=google&utm_medium=cpc&utm_campaign=lead&utm_term=perpetuo&utm_content=publicofrio-lead-discover-texto-lead-kws-none-none-discover-aprendadozero-none-br-sitelink&utm_term=discover%20rocketseat&utm_campaign=PROGRAMAS-ALL-BRANDKWS-SEM&utm_source=adwords&utm_medium=cpc&hsa_acc=8545075154&hsa_cam=16048648686&hsa_grp=135825188594&hsa_ad=579096962131&hsa_src=g&hsa_tgt=kwd-1158927825993&hsa_kw=discover%20rocketseat&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwt4a2BhD6ARIsALgH7DoGLazQgT_q-56-_GPD4y61mhJbYsbzpsRp5zN3ajW9TMMOQ3NKAG8aAvmjEALw_wcB">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 - [Acesse o projeto finalizado, online](https://duvieiraa.github.io/Projeto-Devlinks/)
 
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+- [Assistir aulas](https://www.rocketseat.com.br/discover?utm_source=google&utm_medium=cpc&utm_campaign=lead&utm_term=perpetuo&utm_content=publicofrio-lead-discover-texto-lead-kws-none-none-discover-aprendadozero-none-br-sitelink&utm_term=discover%20rocketseat&utm_campaign=PROGRAMAS-ALL-BRANDKWS-SEM&utm_source=adwords&utm_medium=cpc&hsa_acc=8545075154&hsa_cam=16048648686&hsa_grp=135825188594&hsa_ad=579096962131&hsa_src=g&hsa_tgt=kwd-1158927825993&hsa_kw=discover%20rocketseat&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwt4a2BhD6ARIsALgH7DoGLazQgT_q-56-_GPD4y61mhJbYsbzpsRp5zN3ajW9TMMOQ3NKAG8aAvmjEALw_wcB)
 
 ## 🔖 Layout
 
